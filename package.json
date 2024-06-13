@@ -1,0 +1,11 @@
+{
+  "name": "steam-auth-sdk",
+  "version": "1.0.0",
+  "description": "A library that provides functionality identical to Steam Mobile Authenticator.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ncor",
+  "license": "MIT"
+}
